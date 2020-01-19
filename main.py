@@ -2,7 +2,6 @@ from tkinter import *
 from PIL import ImageTk, Image
 import os
 from pathlib import Path
-from google_images_search import GoogleImagesSearch
 import time
 import random
 from winsound import *
